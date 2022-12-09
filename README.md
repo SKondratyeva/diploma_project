@@ -26,4 +26,5 @@ Another very interesting method was presented in the article Deep Image Prior. T
 
 
 ### Dataset 
-In current project I am using the publicly published dataset CLWD. In the first stage of the project I am going to use the mask with only one watermark. Once sufficient results are achieved, I will also enrich the set of watermarks used for training the network.
+In the current project I am using the publicly published dataset CLWD for training. In the first stage of the project I am going to use the mask with only one watermark. Once sufficient results are achieved, I will also enrich the set of watermarks used for training the network. 
+
