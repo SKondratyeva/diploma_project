@@ -5,7 +5,7 @@
 Stage 1
 
 1. Overview of existing methods and research
-2. Generate basic dataset. I plan to start with 1-2 standard watermarks on high-resolution images.
+2. Generate basic dataset. I plan to start with 1-2 standard watermarks on images.
 3. Prepare a pipeline for testing various models. 
 
 Stage 2
@@ -17,6 +17,7 @@ Stage 3
 
 1. In case HSE provides extra capacity, it is possible to adapt a model for a wider range of watermarks.
 2. Create a web application that will be able to remove watermarks.
+3. Work on quality for high-resolution images: the goal is to avoid artefacts on the images and worsened quality.
 
 ### Existing Research Overview
 
